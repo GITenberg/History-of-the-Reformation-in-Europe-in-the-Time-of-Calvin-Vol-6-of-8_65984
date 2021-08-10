@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <pgterms:ebook rdf:about="ebooks/65984">
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N07e9f8018b4c4c20a49863a9c82d3cf5">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/65984/65984-h.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-03T06:50:38</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">545908</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc405a21124f44aaf8a23ea0a3b9fcfdc">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nbc56336b8ab24ffbb04d42606563de4f">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/65984"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/65984/65984-h/65984-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/65984"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-03T06:48:27</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N778571b931954b268eb059df156f6df0">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1420505</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/65984/65984-0.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1121587</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N905a6fb9fbfb4e3290548c6d79bf7ec1">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/65984"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-03T06:48:27</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <marcrel:trl>
+      <pgterms:agent rdf:about="2009/agents/53581">
+        <pgterms:name>Cates, William L. B.</pgterms:name>
+      </pgterms:agent>
+    </marcrel:trl>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:title>History of the Reformation in Europe in the Time of Calvin, Vol. 6 (of 8)</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/65984/65984-0.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-03T06:50:39</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/65984"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd70c25bc01764b0d813c94956977c08b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419678</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nbe0a0322d36e40ae8ee87c0b87738172">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N7714b1a45e234344bd6b4e79d604ac77">
+        <rdf:value>Text</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-03</dcterms:issued>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/40857">
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1872</pgterms:deathdate>
+        <pgterms:alias>D'Aubigné, J. H. Merle (Jean Henri Merle)</pgterms:alias>
+        <pgterms:alias>Aubigné, J. H. Merle d' (Jean Henri Merle)</pgterms:alias>
+        <pgterms:alias>d'Aubigne, Merle</pgterms:alias>
+        <pgterms:name>Merle d'Aubigné, J. H. (Jean Henri)</pgterms:name>
+        <pgterms:alias>D'Aubigné, Jean Henri Merle</pgterms:alias>
+        <pgterms:alias>d'Aubigné, Merle</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Jean-Henri_Merle_d%27Aubign%C3%A9"/>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1794</pgterms:birthdate>
+        <pgterms:webpage rdf:resource="https://fr.wikipedia.org/wiki/Jean-Henri_Merle_d%27Aubign%C3%A9"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Jean-Henri_Merle_d%27Aubign%C3%A9">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://fr.wikipedia.org/wiki/Jean-Henri_Merle_d%27Aubign%C3%A9">
+    <dcterms:description>fr.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
