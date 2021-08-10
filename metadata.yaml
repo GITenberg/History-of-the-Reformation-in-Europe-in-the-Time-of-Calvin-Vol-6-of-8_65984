@@ -1,10 +1,13 @@
 _repo: History-of-the-Reformation-in-Europe-in-the-Time-of-Calvin-Vol-6-of-8_65984
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Cates, William L. B.
     gutenberg_agent_id: '53581'
     url: http://www.gutenberg.org/2009/agents/53581
+covers:
+- cover_type: archival
+  image_path: 65984-h/images/cover.jpg
 creator:
   author:
     agent_name: Merle d'Aubigné, J. H. (Jean Henri)
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean-Henri_Merle_d%27Aubign%C3%A9
     - https://fr.wikipedia.org/wiki/Jean-Henri_Merle_d%27Aubign%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65984#History-of-the-Reformation-in-Europe-in-the-Time-of-Calvin-Vol-6-of-8
 gutenberg_issued: '2021-08-03'
 gutenberg_type: Text
 identifiers:
